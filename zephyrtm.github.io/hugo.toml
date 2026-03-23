@@ -1,0 +1,4 @@
+baseURL = 'https://zephyrtm.github.io/'
+locale = 'en-us'
+title = 'ZephyrTM'
+theme = 'risotto'
