@@ -1,0 +1,4 @@
+/* Only change the Home button background to --base0E */
+.home {
+    background-color: var(--base0E) !important;
+}

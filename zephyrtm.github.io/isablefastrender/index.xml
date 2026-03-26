@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZephyrTM</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ZephyrTM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2026 12:55:58 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 22 Mar 2026 12:55:58 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m ZephyrTM.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-favourite-software&#34;&gt;My favourite software&lt;/h2&gt;&#xA;&lt;p&gt;I use Arch Linux (btw) with Hyprland and KDE Plasma, dualbooting Windows for gaming.&#xA;My IDE of choice is VS Code/OSS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-projects&#34;&gt;My projects&lt;/h2&gt;&#xA;&lt;p&gt;| project| description | URL |&#xA;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;-|&#xA;| PolarisDLL | A quick and easy DLL installer.| view |&#xA;| SteamInstaller | An alternative, no-admin Steam installer. | view |&#xA;| TruckClusterer | A tool for converting ClusterTruck save data into a file. | view |&#xA;| zephyrtm.github.io| This website. | view |&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

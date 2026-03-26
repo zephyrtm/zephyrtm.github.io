@@ -1,1 +1,10 @@
-/* Override this file to customise the theme's CSS for your site */
+/* === Home button background color === */
+.page__logo-inner {
+    background-color: var(--base0E) !important; /* Catppuccin Frappé purple */
+    color: inherit; /* keeps the text color unchanged */
+}
+
+/* Optional: hover stays the same */
+.page__logo-inner:hover {
+    background-color: var(--base0E) !important;
+}
