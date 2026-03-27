@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zephyrtm</title>
-    <link>http://localhost:1313/</link>
+    <link>https://zephyrtm.github.io/</link>
     <description>Recent content on zephyrtm</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Mar 2026 16:53:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zephyrtm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>https://zephyrtm.github.io/posts/</link>
       <pubDate>Fri, 27 Mar 2026 16:53:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
+      <guid>https://zephyrtm.github.io/posts/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;mylinuxjourney&#34;&gt;&lt;em&gt;my linux journey&lt;/em&gt;&lt;/a&gt; &amp;gt;&#xA;the story of how i became the Arch fanboy i am.&lt;/p&gt;&#xA;&lt;p&gt;possibly more in the future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://zephyrtm.github.io/about/</link>
       <pubDate>Sun, 22 Mar 2026 12:55:58 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://zephyrtm.github.io/about/</guid>
       <description>&lt;p&gt;hi! i&amp;rsquo;m zephyrtm.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-favourite-software&#34;&gt;my favourite software&lt;/h2&gt;&#xA;&lt;p&gt;i use Arch Linux (btw) with hyprland and kde plasma, dualbooting michaelsoft binbows for gaming and exclusive software.&#xA;My ide of choice is vs code/oss.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-projects&#34;&gt;my projects&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;name&lt;/th&gt;&#xA;          &lt;th&gt;description&lt;/th&gt;&#xA;          &lt;th&gt;link&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;polarisdll&lt;/td&gt;&#xA;          &lt;td&gt;a quick and easy dllfile installer.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/zephyrtm/polarisdll&#34;&gt;view&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;steaminstaller&lt;/td&gt;&#xA;          &lt;td&gt;a no-admin installer for steam.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/zephyrtm/steaminstaller&#34;&gt;view&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;truckclusterer&lt;/td&gt;&#xA;          &lt;td&gt;a clustertruck save file installer.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/zephyrtm/truckclusterer&#34;&gt;view&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;more projects soon, hopefully.&lt;/p&gt;</description>
     </item>
   </channel>
