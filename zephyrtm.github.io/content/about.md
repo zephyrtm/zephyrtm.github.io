@@ -5,19 +5,19 @@ menus = 'main'
 title = 'about'
 +++
 
-Hi! I'm ZephyrTM.
+hi! i'm zephyrtm.
 
-## My favourite software
-I use Arch Linux (btw) with Hyprland and KDE Plasma, dualbooting Windows for gaming.
-My IDE of choice is VS Code/OSS.
+## my favourite software
+i use Arch Linux (btw) with hyprland and kde plasma, dualbooting michaelsoft binbows for gaming and exclusive software.
+My ide of choice is vs code/oss.
 
-## My projects
+## my projects
 
-| project| description | URL |
-|-----------|----------|
-| PolarisDLL | A quick and easy DLL installer.| view |
-| SteamInstaller | An alternative, no-admin Steam installer. | view |
-| TruckClusterer | A tool for converting ClusterTruck save data into a file. | view |
-| zephyrtm.github.io| This website. | view |
+| name | description | link |
+|----------------|-------------------------------------|--------------|
+| polarisdll      |a quick and easy dllfile installer.      |[view](https://github.com/zephyrtm/polarisdll)        |
+| steaminstaller      |a no-admin installer for steam.      |[view](https://github.com/zephyrtm/steaminstaller)        |
+| truckclusterer      |a clustertruck save file installer.      |[view](https://github.com/zephyrtm/truckclusterer)        |
 
-More projects soon, hopefully.
+more projects soon, hopefully.
+
