@@ -1,6 +1,6 @@
-baseURL = 'https://zephyrtm.github.io/'
+baseURL = 'https://zephyruszt.github.io/'
 locale = 'en-us'
-title = 'zephyrtm'
+title = 'zephyruszt'
 theme = 'risotto'
 
 [[menu.main]]
@@ -22,7 +22,7 @@ palette = "base16-catppuccin-frappe"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/zephyrtm"
+url = "https://github.com/zephyruszt"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-mastodon"
@@ -32,4 +32,4 @@ url = "https://mastodon.social/@zephyruszt"
 [[params.socialLinks]]
 icon = "fa-solid fa-square-rss"
 title = "RSS"
-url = "https://zephyrtm.github.io/index.xml"
+url = "https://zephyruszt.github.io/index.xml"

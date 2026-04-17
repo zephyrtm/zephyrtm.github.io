@@ -4,4 +4,4 @@ draft = false
 outputs = ["HTML"]
 +++
 
-personal page of zephyrtm.
+personal page of zephyruszt.

@@ -6,7 +6,7 @@ description = 'a little bit about me.'
 outputs = ["HTML","RSS"]
 +++
 
-hi! i'm zephyrtm.
+hi! i'm zephyruszt.
 
 ## my favourite software
 i use Arch Linux (btw) with hyprland and kde plasma, dualbooting michaelsoft binbows for gaming and exclusive software.
@@ -16,9 +16,9 @@ My ide of choice is vs code/oss.
 
 | name | description | link |
 |----------------|-------------------------------------|--------------|
-| polarisdll      |a quick and easy dllfile installer.      |[view](https://github.com/zephyrtm/polarisdll)        |
-| steaminstaller      |a no-admin installer for steam.      |[view](https://github.com/zephyrtm/steaminstaller)        |
-| truckclusterer      |a clustertruck save file installer.      |[view](https://github.com/zephyrtm/truckclusterer)        |
+| polarisdll      |a quick and easy dllfile installer.      |[view](https://github.com/zephyruszt/polarisdll)        |
+| steaminstaller      |a no-admin installer for steam.      |[view](https://github.com/zephyruszt/steaminstaller)        |
+| truckclusterer      |a clustertruck save file installer.      |[view](https://github.com/zephyruszt/truckclusterer)        |
 
 more projects soon, hopefully.
 

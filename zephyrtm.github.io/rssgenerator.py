@@ -7,8 +7,8 @@ from datetime import datetime
 # ---------------- CONFIG ----------------
 CONTENT_DIRS = ['content/posts/mylinuxjourney', 'content/about']  # Add all directories you want
 OUTPUT_FILE = '.\index.xml'  # Where to save the RSS feed
-SITE_URL = 'https://zephyrtm.github.io/'  # Your site URL
-SITE_TITLE = 'zephyrtm'
+SITE_URL = 'https://zephyruszt.github.io/'  # Your site URL
+SITE_TITLE = 'zephyruszt'
 
 # ---------------- HELPERS ----------------
 def prettify(elem):
